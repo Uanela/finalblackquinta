@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.6127792a.css",
-    "main.js": "./static/js/main.edd67c6d.js",
+    "main.js": "./static/js/main.fc0a71fc.js",
     "static/js/787.f14ac830.chunk.js": "./static/js/787.f14ac830.chunk.js",
     "static/media/Black Quinta Logo.png": "./static/media/Black Quinta Logo.9a3e05c376c58bb56918.png",
     "static/media/market7_profile_logo.png": "./static/media/market7_profile_logo.8d653f14671bc343819c.png",
     "static/media/shcedule example.png": "./static/media/shcedule example.3acabcd8d26930ba3637.png",
     "index.html": "./index.html",
     "main.6127792a.css.map": "./static/css/main.6127792a.css.map",
-    "main.edd67c6d.js.map": "./static/js/main.edd67c6d.js.map",
+    "main.fc0a71fc.js.map": "./static/js/main.fc0a71fc.js.map",
     "787.f14ac830.chunk.js.map": "./static/js/787.f14ac830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6127792a.css",
-    "static/js/main.edd67c6d.js"
+    "static/js/main.fc0a71fc.js"
   ]
 }
